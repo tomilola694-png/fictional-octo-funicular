@@ -1,0 +1,5 @@
+{
+  "name": "Copy of StatArch: A-Level Statistics question generator",
+  "description": "An expert EdTech tool for architects of A-Level Statistics curricula. It generates procedurally parameterised question templates, SymPy mathematical engines for exact solutions, and STACK assessment logic for intelligent student feedback.",
+  "requestFramePermissions": []
+}
